@@ -1,0 +1,28 @@
+body{
+    background-color: #332233;
+}
+
+h1{
+    font-size: 2vw;
+    text-align: center;
+    color: bisque;
+}
+
+label{
+    color:tomato;
+}
+
+input:hover{
+    background-color:grey !important;
+    color: black !important;
+}
+
+#btn_submit:hover{
+    color: black;
+    background-color:maroon !important;
+}
+
+.p1{
+    color:mediumvioletred !important ;
+    font-size: 1vw !important;
+}
